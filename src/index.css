@@ -1,0 +1,12 @@
+
+/* TextForm.css */
+.textarea-dark::placeholder {
+  color: white;
+}
+.textarea-light::placeholder {
+  color: black;
+}
+
+/* .accordion-button::after {
+  filter: invert(1);                it will invert the color of the arrows after dark mode
+} */
